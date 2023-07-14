@@ -1,0 +1,52 @@
+.as{
+    position: relative;
+}
+.ad{
+    position:absolute;
+    margin: 50px 50px;
+    height: 150px;
+    width: 150px;
+    z-index: 5;
+}
+.af{
+    position:absolute;
+    margin: 50px 150px;
+    height: 200px;
+    width: 200px;
+    z-index: 4;
+}
+
+    
+.ag{
+    position:absolute;
+    margin: 50px 400px;
+    height: 300px;
+    width: 300px;
+    z-index: 2;
+}
+
+.ah{
+    position:absolute;
+    margin: 50px 200px;
+    height: 350px;
+    width: 350px;
+    z-index: 3;
+}
+
+    
+.ak{
+    position:absolute;
+    margin: 50px 500px;
+    height: 300px;
+    width:200px;
+    z-index: 1;
+    right: 30px;
+
+} 
+
+h1{
+    border: 3px solid black;
+    background-color: bisque;
+    width: fit-content;
+}
+    
